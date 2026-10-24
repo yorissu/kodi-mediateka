@@ -1,0 +1,129 @@
+# Kodi Media Center language file
+# Addon Name: Mediateka
+# Addon id: plugin.video.mediateka
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.video.mediateka
+"
+"Language: lt_LT
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
+
+msgctxt "#30000"
+msgid "Live"
+msgstr "Tiesiogiai"
+
+msgctxt "#30001"
+msgid "Newest"
+msgstr "Naujausi"
+
+msgctxt "#30002"
+msgid "TV shows"
+msgstr "TV laidos"
+
+msgctxt "#30003"
+msgid "Radio shows"
+msgstr "Radijo laidos"
+
+msgctxt "#30004"
+msgid "Categories"
+msgstr "Kategorijos"
+
+msgctxt "#30005"
+msgid "Archive"
+msgstr "Archyvas"
+
+msgctxt "#30006"
+msgid "Search"
+msgstr "Paieška"
+
+msgctxt "#30007"
+msgid "On air now"
+msgstr "Dabar rodomos"
+
+msgctxt "#30008"
+msgid "Heritage collection"
+msgstr "Paveldas"
+
+msgctxt "#30009"
+msgid "All recordings"
+msgstr "Visi įrašai"
+
+msgctxt "#30010"
+msgid "Next page (%d)"
+msgstr "Kitas puslapis (%d)"
+
+msgctxt "#30011"
+msgid "New search"
+msgstr "Nauja paieška"
+
+msgctxt "#30012"
+msgid "Remove from search history"
+msgstr "Pašalinti iš paieškos istorijos"
+
+msgctxt "#30013"
+msgid "%s [show]"
+msgstr "%s [laida]"
+
+msgctxt "#30020"
+msgid "Could not reach Mediateka"
+msgstr "Nepavyko pasiekti Mediatekos"
+
+msgctxt "#30021"
+msgid "This recording is not available"
+msgstr "Šis įrašas nepasiekiamas"
+
+msgctxt "#30022"
+msgid "Not available in your country"
+msgstr "Jūsų šalyje nerodoma"
+
+msgctxt "#30023"
+msgid "Nothing found"
+msgstr "Nieko nerasta"
+
+msgctxt "#30024"
+msgid "Season %s"
+msgstr "Sezonas %s"
+
+msgctxt "#30025"
+msgid "Live TV"
+msgstr "Tiesioginė televizija"
+
+msgctxt "#30026"
+msgid "Live radio"
+msgstr "Tiesioginis radijas"
+
+msgctxt "#30100"
+msgid "General"
+msgstr "Bendri"
+
+msgctxt "#30101"
+msgid "Items per page"
+msgstr "Įrašų puslapyje"
+
+msgctxt "#30103"
+msgid "Clear cache"
+msgstr "Išvalyti podėlį"
+
+msgctxt "#30104"
+msgid "Debug logging"
+msgstr "Derinimo žurnalas"
+
+msgctxt "#30105"
+msgid "Cache cleared"
+msgstr "Podėlis išvalytas"
+
+msgctxt "#30106"
+msgid "Clear search history"
+msgstr "Išvalyti paieškos istoriją"
+
+msgctxt "#30107"
+msgid "Search history cleared"
+msgstr "Paieškos istorija išvalyta"

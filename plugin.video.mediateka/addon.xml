@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.mediateka" name="Mediateka" version="0.0.0" provider-name="yorissu">
+	<!-- version is a placeholder: build_zip.py writes the one from the git tag into the zip -->
+	<requires>
+		<import addon="xbmc.python" version="3.0.1"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video audio</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Mediateka - Lithuanian public TV and radio, live and on demand</summary>
+		<summary lang="lt_LT">Mediateka - televizija ir radijas tiesiogiai ir įrašuose</summary>
+		<description lang="en_GB">Unofficial Mediateka client. Watch the TV channels live, listen to the radio stations, and browse recordings: newest, TV and radio shows A-Z with seasons, categories, the archive by decade and search. No account needed.</description>
+		<description lang="lt_LT">Neoficialus Mediatekos klientas. Televizija ir radijo stotys tiesiogiai bei įrašai: naujausi, TV ir radijo laidos A-Ž su sezonais, kategorijos, archyvas pagal dešimtmečius ir paieška. Paskyros nereikia.</description>
+		<disclaimer lang="en_GB">Unofficial, not affiliated with the broadcaster. Some broadcasts are available only in Lithuania.</disclaimer>
+		<disclaimer lang="lt_LT">Neoficialus, nesusijęs su transliuotoju. Kai kurios laidos rodomos tik Lietuvoje.</disclaimer>
+		<platform>all</platform>
+		<language>lt</language>
+		<license>MIT</license>
+		<website>https://github.com/yorissu/kodi-mediateka</website>
+		<source>https://github.com/yorissu/kodi-mediateka</source>
+		<assets>
+			<icon>icon.png</icon>
+		</assets>
+	</extension>
+</addon>

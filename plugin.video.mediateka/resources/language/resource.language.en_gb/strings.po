@@ -1,0 +1,129 @@
+# Kodi Media Center language file
+# Addon Name: Mediateka
+# Addon id: plugin.video.mediateka
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.video.mediateka
+"
+"Language: en_GB
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
+
+msgctxt "#30000"
+msgid "Live"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Newest"
+msgstr ""
+
+msgctxt "#30002"
+msgid "TV shows"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Radio shows"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Categories"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Archive"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Search"
+msgstr ""
+
+msgctxt "#30007"
+msgid "On air now"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Heritage collection"
+msgstr ""
+
+msgctxt "#30009"
+msgid "All recordings"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Next page (%d)"
+msgstr ""
+
+msgctxt "#30011"
+msgid "New search"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Remove from search history"
+msgstr ""
+
+msgctxt "#30013"
+msgid "%s [show]"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Could not reach Mediateka"
+msgstr ""
+
+msgctxt "#30021"
+msgid "This recording is not available"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Not available in your country"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Nothing found"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Season %s"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Live TV"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Live radio"
+msgstr ""
+
+msgctxt "#30100"
+msgid "General"
+msgstr ""
+
+msgctxt "#30101"
+msgid "Items per page"
+msgstr ""
+
+msgctxt "#30103"
+msgid "Clear cache"
+msgstr ""
+
+msgctxt "#30104"
+msgid "Debug logging"
+msgstr ""
+
+msgctxt "#30105"
+msgid "Cache cleared"
+msgstr ""
+
+msgctxt "#30106"
+msgid "Clear search history"
+msgstr ""
+
+msgctxt "#30107"
+msgid "Search history cleared"
+msgstr ""
