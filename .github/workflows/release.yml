@@ -78,7 +78,7 @@ jobs:
       - name: Build the Kodi repository site
         run: python build_repo.py zips site
       - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: site
       - id: deploy
